@@ -1,5 +1,5 @@
-# ninefivepro
-九五装饰
+# ninefivepro3.0
+
 ## Project setup
 ```
 npm install
