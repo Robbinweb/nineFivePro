@@ -8,6 +8,10 @@ const routes = [
   {
     path: '/',
     name: 'Home',
+    meta: {
+      title: '首页',
+      keepAlive: false
+    },
     component: Home
   },
   {
